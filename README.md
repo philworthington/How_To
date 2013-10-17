@@ -1,15 +1,14 @@
 #How_To
 
 * By Phil Worthington
-* Rails Version 3.2.14
-* Project based on [Tutorial][2] by [jhjguxin](https://gist.github.com/jhjguxin)
+* Using Rails Version 3.2.14
 
 ##Description
 
 This app uses nested resources to build a How_To site featuring steps inside of goals.
 
 
-##Resources used
+##Resources Used
 * [Ruby on Rails Guide to Routing][1] specifically 2.7 Nested Resources
 * [Tutorial on Creating Nested Resource][2] by [jhjguxin](https://gist.github.com/jhjguxin)
 
