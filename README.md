@@ -5,7 +5,7 @@
 
 ##Description
 
-This app uses nested resources to build a How_To site featuring steps inside of goals.
+This app uses nested resources to build a "How To" site featuring steps inside of goals.
 
 
 ##Resources Used
