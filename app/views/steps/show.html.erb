@@ -1,0 +1,20 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Step:</b>
+  <%= @step.step %>
+</p>
+
+<p>
+  <b>Notes:</b>
+  <%= @step.notes %>
+</p>
+
+<!--<p>
+  <b>Goal:</b>
+  <%= @step.goal_id %>
+</p>-->
+
+
+<%= link_to 'Edit', edit_goal_step_path(@goal, @step) %> |
+<%= link_to 'Back', goal_steps_path(@goal) %>
