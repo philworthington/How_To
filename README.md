@@ -1,11 +1,16 @@
-#How_To
+# How_To
 
-* By Phil Worthington
-* Using Rails Version 3.2.14
+By [Phil Worthington](https://github.com/philworthington).
+
 
 ##Description
 
 This app uses nested resources to build a "How To" site featuring steps inside of goals.
+
+
+## Installation
+
+Requires Rails 3.2.14.
 
 
 ##Resources Used
@@ -14,3 +19,8 @@ This app uses nested resources to build a "How To" site featuring steps inside o
 
 [1]: http://guides.rubyonrails.org/v3.2.13/routing.html
 [2]: https://gist.github.com/jhjguxin/3074080
+
+
+## License
+
+MIT: http://philworthington.mit-license.org
